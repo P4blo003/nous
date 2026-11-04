@@ -3,6 +3,7 @@ name: Epic
 about: A large body of work, broken down into user stories
 title: "EX: "
 labels: epic
+assignees: P4blo003
 ---
 
 ## Goal
