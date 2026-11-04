@@ -3,6 +3,7 @@ name: User story
 about: A backlog item with verifiable acceptance criteria (INVEST)
 title: "US-XX: "
 labels: story
+assignees: P4blo003
 ---
 
 <!-- Fill in every section. Delete one only if it truly does not apply. -->
