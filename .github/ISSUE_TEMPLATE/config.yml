@@ -1,0 +1,13 @@
+# ==========================================================================================
+# Author: Pablo González García
+# Created: 2026/11/04
+# ==========================================================================================
+
+
+# ==============================
+# DEFAULT
+# ==============================
+
+# Configuration of the "New issue" chooser. Every issue must be created from a template, so that
+# backlog items stay consistent.
+blank_issues_enabled: false
